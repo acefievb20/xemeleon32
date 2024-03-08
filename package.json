@@ -11,9 +11,9 @@
     "url": "https://github.com/acefievb20/xemeleon32.git"
   },
   "dependencies": {
-    "rresag_tea-": "^1.0.0",
+    "rresag_tea": "^1.0.0",
     "vilomi_operating": "^1.0.0",
-    "minti_fulkerson ": "0.1.4"
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
